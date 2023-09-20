@@ -10,7 +10,7 @@
             ... offer the transcripts
 
 - 💞️ I’m looking to collaborate on any python project
-- ✉️ you find me at @gmail.com ;) 
+- ✉️ you can find me at @gmail.com ;) 
 
 <!---
 noolldave/noolldave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
